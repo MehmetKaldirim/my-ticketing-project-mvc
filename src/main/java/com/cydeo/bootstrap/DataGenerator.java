@@ -5,9 +5,6 @@ import com.cydeo.dto.UserDTO;
 import com.cydeo.enums.Gender;
 import com.cydeo.service.RoleService;
 import com.cydeo.service.UserService;
-import com.cydeo.service.impl.RoleServiceImpl;
-import com.cydeo.service.impl.UserServiceImpl;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
 
